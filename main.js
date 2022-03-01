@@ -1,6 +1,4 @@
-function suma(a, b) {
-    return a + b;
-}
+
 
 function multiplica(a, b) {
     return a * b;
@@ -34,7 +32,7 @@ function redondea(a) {
     return Math.round(a);
 }
 
-console.log (suma(4,3));
+
 console.log (multiplica(4,3));
 console.log (resta(4,3));
 console.log (divide(4,3));
