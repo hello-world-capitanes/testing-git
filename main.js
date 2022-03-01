@@ -17,6 +17,7 @@ function eleva(a, b) {
 }
 
 function raiz(a) {
+   //Comentario 
    return Math.sqrt(a)
 }
 
