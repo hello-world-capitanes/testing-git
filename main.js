@@ -9,7 +9,7 @@ function resta(a, b) {
 }
 
 function divide(a, b) {
-    return "hola";
+    return a/b;
 }
 
 function eleva(a, b) {
