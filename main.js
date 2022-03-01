@@ -1,17 +1,28 @@
-function suma(a, b) {
-    return a + b;
-}
 
-function multiplica(a, b) {
-    return a * b;
+function multiplica(a, b, c) {
+
+
+
+
+
+
+    console.log("No me borres");
+
+
+
+
+
+
+    return a * b * c;
 }
 
 function resta(a, b) {
+    // Comentario Manu
     return a - b;
 }
 
 function divide(a, b) {
-    return a / b;
+    return a/b;
 }
 
 function eleva(a, b) {
@@ -19,6 +30,7 @@ function eleva(a, b) {
 }
 
 function raiz(a) {
+   //Comentario 
    return Math.sqrt(a)
 }
 
@@ -26,15 +38,19 @@ function maximo(a, b){
    return Math.max(a, b);
 }
 
-function minimo(a, b){
-    return Math.min(a, b);
+function minimo(a, b, c){
+    // Comentario Mario
+    return Math.min(a, b) * c;
 }
 
 function redondea(a) {
     return Math.round(a);
 }
 
-console.log (suma(4,3));
+function sumayresta(a,b,c) {
+    return a + b - c;
+}
+
 console.log (multiplica(4,3));
 console.log (resta(4,3));
 console.log (divide(4,3));
@@ -43,4 +59,5 @@ console.log (raiz(4));
 console.log (maximo(4,3));
 console.log (minimo(4,3));
 console.log (redondea(divide(4,3)));
+console.log (sumayresta(8,2,5));
 
