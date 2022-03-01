@@ -1,6 +1,19 @@
 
-function multiplica(a, b) {
-    return a * b;
+function multiplica(a, b, d) {
+
+
+
+
+
+
+    console.log("No me borres");
+
+
+
+
+
+
+    return a * b * d;
 }
 
 function resta(a, b) {
@@ -25,6 +38,9 @@ function maximo(a, b){
 }
 
 function minimo(a, b){
+
+    multiplica(a,a,a);
+
     return Math.min(a, b);
 }
 
