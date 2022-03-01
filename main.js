@@ -1,6 +1,6 @@
 
-function multiplica(a, b) {
-    return a * b;
+function multiplica(a, b,c) {
+    return a * b * c;
 }
 
 function resta(a, b) {
