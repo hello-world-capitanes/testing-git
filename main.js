@@ -22,7 +22,7 @@ function resta(a, b) {
 }
 
 function divide(a, b) {
-    return "hola";
+    return divide(a, b);
 }
 
 function eleva(a, b) {
