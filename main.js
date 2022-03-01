@@ -7,6 +7,7 @@ function multiplica(a, b) {
 }
 
 function resta(a, b) {
+    // Comentario Manu
     return a - b;
 }
 
