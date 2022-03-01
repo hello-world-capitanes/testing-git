@@ -11,7 +11,7 @@ function resta(a, b) {
 }
 
 function divide(a, b) {
-    return a / b;
+    return "hola";
 }
 
 function eleva(a, b) {
