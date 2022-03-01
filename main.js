@@ -24,7 +24,7 @@ function maximo(a, b){
    return Math.max(a, b);
 }
 
-function minimo(a, b){
+function minimo(a, b, c){
     return Math.min(a, b);
 }
 
