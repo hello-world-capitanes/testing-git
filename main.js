@@ -30,17 +30,23 @@ function eleva(a, b) {
 }
 
 function raiz(a) {
-    //holaaaaaaaaaa
-   return Math.sqrt(a);
+   //Comentario 
+   return Math.sqrt(a)
 }
 
 function maximo(a, b){
    return Math.max(a, b);
 }
 
+<<<<<<< HEAD
 function minimo(a, b){
 
     return Math.min(a, b);
+=======
+function minimo(a, b, c){
+    // Comentario Mario
+    return Math.min(a, b) * c;
+>>>>>>> origin/integracion
 }
 
 function redondea(a) {
