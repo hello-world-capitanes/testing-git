@@ -1,5 +1,5 @@
 
-function multiplica(a, b, d) {
+function multiplica(a, b, c) {
 
 
 
@@ -13,7 +13,7 @@ function multiplica(a, b, d) {
 
 
 
-    return a * b * d;
+    return a * b * c;
 }
 
 function resta(a, b) {
@@ -22,7 +22,7 @@ function resta(a, b) {
 }
 
 function divide(a, b) {
-    return divide(a, b);
+    return a/b;
 }
 
 function eleva(a, b) {
