@@ -1,6 +1,19 @@
 
-function multiplica(a, b) {
-    return a * b;
+function multiplica(a, b, c) {
+
+
+
+
+
+
+    console.log("No me borres");
+
+
+
+
+
+
+    return a * b * c;
 }
 
 function resta(a, b) {
@@ -17,8 +30,8 @@ function eleva(a, b) {
 }
 
 function raiz(a) {
-    //holaaaaaaaaaa
-   return Math.sqrt(a);
+   //Comentario 
+   return Math.sqrt(a)
 }
 
 function maximo(a, b){
@@ -26,7 +39,8 @@ function maximo(a, b){
 }
 
 function minimo(a, b, c){
-    return Math.min(a, b);
+    // Comentario Mario
+    return Math.min(a, b) * c;
 }
 
 function redondea(a) {
