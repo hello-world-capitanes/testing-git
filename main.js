@@ -38,14 +38,8 @@ function maximo(a, b){
    return Math.max(a, b);
 }
 
-<<<<<<< HEAD
 function minimo(a, b){
 
-    multiplica(a,a,a);
-
-=======
-function minimo(a, b, c){
->>>>>>> origin/integracion
     return Math.min(a, b);
 }
 
