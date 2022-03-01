@@ -25,7 +25,8 @@ function maximo(a, b){
 }
 
 function minimo(a, b){
-    return Math.min(a, b);
+    // Comentario Mario
+    return Math.min(a, b) * c;
 }
 
 function redondea(a) {
