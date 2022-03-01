@@ -1,6 +1,3 @@
-function suma(a, b) {
-    return a + b;
-}
 
 function multiplica(a, b) {
     return a * b;
@@ -38,7 +35,6 @@ function sumayresta(a,b,c) {
     return a + b - c;
 }
 
-console.log (suma(4,3));
 console.log (multiplica(4,3));
 console.log (resta(4,3));
 console.log (divide(4,3));
