@@ -34,6 +34,10 @@ function redondea(a) {
     return Math.round(a);
 }
 
+function sumayresta(a,b,c) {
+    return a + b - c;
+}
+
 console.log (suma(4,3));
 console.log (multiplica(4,3));
 console.log (resta(4,3));
@@ -43,4 +47,5 @@ console.log (raiz(4));
 console.log (maximo(4,3));
 console.log (minimo(4,3));
 console.log (redondea(divide(4,3)));
+console.log (sumayresta(8,2,5));
 
