@@ -7,7 +7,7 @@ function boton(a, b, c) {
 
 function validaformulario(a, b, c) {
 
-
+//aaaaaaa
     console.log("Funcion que valida el formulario");
 
 }
