@@ -2,10 +2,6 @@
 function multiplica(a, b, c) {
 
 
-
-
-
-
     console.log("No me borres");
 
 
