@@ -4,4 +4,8 @@ Segunda frase.
 
 Nombre alumnos:
  - 
+<<<<<<< HEAD
  -Óscar Roma Calvo
+=======
+Nicole
+>>>>>>> 8e1e16559706c16d5fe620e6d6d1df4abfabaca3
