@@ -6,4 +6,5 @@ Nombre alumnos:
  - Óscar
  - Roi Sánchez
  - David Almeda Garcia
+ - Juan
 Nicole  
